@@ -4,5 +4,7 @@ Google Chrome extension that disables those annoying autostarting videos on yout
 
 **Install**
 - Download/pull the repo to a folder
-- Open Google Chrome
-- Settings -> Extensions (A tab in the sidebar) -> Enable developer mode -> Load unpacked extension... -> Point to the directory
+- Open Google Chrome:
+- Settings -> Extensions (A tab in the sidebar) 
+- Enable developer mode
+- Load unpacked extension... -> Point to the directory

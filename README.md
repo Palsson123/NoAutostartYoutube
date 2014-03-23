@@ -1,6 +1,6 @@
 NoAutostartYoutube
 ==================
-Google Chrome extension that disables those annoying autostarting videos on youtube.com and lets you start the video manually if you want to see it.
+Google Chrome extension that disables those annoying autostarting videos on youtube.com and you can start the video manually if you want to see it.
 
 **Install**
 - Download/pull the repo to a folder
